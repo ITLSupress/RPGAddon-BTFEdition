@@ -12,7 +12,7 @@ import net.minecraft.src.Packet250CustomPayload;
 import java.io.*;
 
 public class RPGAddon extends BTWAddon {
-    //jyoshi is cool
+
     private static RPGAddon instance;
 
     public static RPGPointsAllocation pointsAllocation = null;
